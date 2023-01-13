@@ -1,0 +1,21 @@
+#home {
+    .card{
+        width: 400px;
+        border: 1px solid black;
+
+        .title {
+            font-size: 24px;
+            color: red;
+        }
+
+        .description {
+            color: purple;
+        }
+    }
+}
+
+body {
+    background: url('../imgs/orange-cat.jpg');
+    background-size: contain;
+    background-repeat: no-repeat; 
+  }

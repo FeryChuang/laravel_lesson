@@ -1,0 +1,34 @@
+@import "./main.scss";
+@import './fonts/rubikBubbles.css';
+
+h1 {
+    color:orange;
+    font-size: 100px;
+    font-family: 'Rubik Bubbles', cursive;
+}
+
+#sd {
+    .card{
+        width: 400px;
+        border: 1px solid black;
+
+        .title {
+            font-size: 24px;
+            color: blueviolet;
+        }
+
+        .description {
+            color: gray;
+        }
+    }
+}
+
+a {
+    color:orange;
+    font-size: 30px;
+    font-family: 'Rubik Bubbles', cursive;
+}
+
+button {
+    background-color: orange;
+}

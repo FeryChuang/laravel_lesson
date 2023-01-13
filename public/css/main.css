@@ -1,0 +1,15 @@
+#home .card {
+  width: 400px;
+  border: 1px solid black;
+}
+#home .card .title {
+  font-size: 24px;
+  color: red;
+}
+#home .card .description {
+  color: purple;
+}
+
+body {
+  background: url('../resources/imgs/orange-cat.jpg');
+}
