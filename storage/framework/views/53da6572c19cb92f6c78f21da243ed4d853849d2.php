@@ -1,0 +1,1 @@
+<?php /**PATH C:\Users\pc\Documents\sandwich\sd_learn\resources\views/layouts/nav.blade.php ENDPATH**/ ?>
